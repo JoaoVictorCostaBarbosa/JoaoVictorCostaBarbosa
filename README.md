@@ -17,7 +17,7 @@ Back-end first • APIs • Banco de Dados • Arquitetura
 
 - Cursando Engenharia de Software na UFC
 - Foco total em **Back-end**, com interesse em sistemas de alta performance e concorrência  
-- Experiência com **Java/Spring** e atualmente focado na robustez do **Rust**  
+- Estudos com **Java/Spring** e atualmente focado na robustez do **Rust**  
 - Curto estudar **Clean Architecture**, **SOLID** e design de **APIs REST**
 
 ---
