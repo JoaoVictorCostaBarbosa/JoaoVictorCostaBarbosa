@@ -13,16 +13,16 @@ Back-end first • APIs • Banco de Dados • Arquitetura
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Cursando Engenharia de Software na UFC
-- 🎯 Foco total em **Back-end**, com interesse em sistemas de alta performance e concorrência  
-- 🛠️ Experiência com **Java/Spring** e atualmente focado na robustez do **Rust**  
-- 🏗️ Curto estudar **Clean Architecture**, **SOLID** e design de **APIs REST**
+- Cursando Engenharia de Software na UFC
+- Foco total em **Back-end**, com interesse em sistemas de alta performance e concorrência  
+- Experiência com **Java/Spring** e atualmente focado na robustez do **Rust**  
+- Curto estudar **Clean Architecture**, **SOLID** e design de **APIs REST**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Back-end & Banco de Dados
 <p>
@@ -41,19 +41,19 @@ Back-end first • APIs • Banco de Dados • Arquitetura
 
 ---
 
-## 📌 Projeto Principal em Desenvolvimento
+## Projeto Principal em Desenvolvimento
 
-### 🏋️ mft-back (myFitTracker)
+### mft-back (myFitTracker)
 
 Uma API de alta performance desenvolvida em **Rust** para o ecossistema *myFitTracker*.
 
-- 🎯 Objetivo: Gerenciar rotinas de treinos e progresso de usuários  
-- 🔐 Foco em segurança de memória e velocidade  
-- 🧱 Estrutura voltada para escalabilidade e organização de domínio
+- Objetivo: Gerenciar rotinas de treinos e progresso de usuários  
+- Foco em segurança de memória e velocidade  
+- Estrutura voltada para escalabilidade e organização de domínio
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 <p align="left">
   <a href="https://linkedin.com/in/JoaoVictorCostaBarbosa" target="_blank">
