@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo João Victor 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software pela <b>UFC – Campus Russas</b><br/><br/>
+Estudante de Engenharia de Software pela <b>UFC</b><br/><br/>
 Back-end first • APIs • Banco de Dados • Arquitetura
 </p>
 
@@ -15,7 +15,7 @@ Back-end first • APIs • Banco de Dados • Arquitetura
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando Engenharia de Software na UFC (Russas)  
+- 🎓 Cursando Engenharia de Software na UFC
 - 🎯 Foco total em **Back-end**, com interesse em sistemas de alta performance e concorrência  
 - 🛠️ Experiência com **Java/Spring** e atualmente focado na robustez do **Rust**  
 - 🏗️ Curto estudar **Clean Architecture**, **SOLID** e design de **APIs REST**
